@@ -88,7 +88,7 @@ function AdminLogin() {
 
               <MDBInput
                 wrapperClass="mb-4"
-                label="ID"
+                label="CC"
                 id="form1"
                 onChange={(event) => setId(event.target.value)}
               />
